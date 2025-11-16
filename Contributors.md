@@ -1,4 +1,5 @@
-# Contributors 
+# Contributors
+
 - [mirza](https://github.com/imhasnain)
 - [Shiva Yadav](https://github.com/shiva-yadav-ds)
 - [gopaljilab](https://github.com/gopaljilab)
@@ -940,6 +941,7 @@
 - [Anish Patil](https://github.com/Anish-Kodarkar)
 - [Sinchana](https://github.com/Sinchanar09)
 - [İsaməddin Qurbanov](https://github.com/isameddin35)
+- [MMALI3287](https://github.com/MMALI3287)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Umair Amir](https://github.com/UmairAmir)
 - [Umesh Raju](https://github.com/UmeshRaju)
@@ -1291,7 +1293,7 @@
 - [Suhas Magadum](https://github.com/Suhas-098)
 - [Berekia Obed](https://github.com/berekiao)
 - [Robins Karani](https://github.com/RobinsKarani)
-- [Taniya Kumari](https://github.com/taniya273) 
+- [Taniya Kumari](https://github.com/taniya273)
 - [maclaccha](https://github.com/maclaccha)
 - [polasisubash](https://github.com/polasisubash)
 - [Sabarivenkatesh](https://github.com/Sabarivenkatesh3)
